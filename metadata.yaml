@@ -1,0 +1,34 @@
+_repo: What-I-believe_73782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73782'
+language: en
+pgterms:marc904: https://archive.org/details/whatibelieve00russ_0
+pgterms:marc905: 20240413104643russell
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: What I believe
+url: http://www.gutenberg.org/ebooks/73782
